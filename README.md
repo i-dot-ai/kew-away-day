@@ -103,6 +103,24 @@ claude --dangerously-skip-permissions
 
 ---
 
+
+### 7. Configure Claude Code with AWS Bedrock
+
+When claude-code starts, run:
+
+```
+/setup-bedrock
+```
+
+Once done, select
+```
+Bedorck API key (bearer token)
+```
+
+Pass in the Bedrock generated API Key.
+
+---
+
 ## Troubleshooting
 
 **"Running scripts is disabled on this system"**
