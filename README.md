@@ -28,6 +28,8 @@ Set-ExecutionPolicy Unrestricted -Scope LocalMachine
 
 This allows PowerShell scripts to run on the machine.
 
+**Now close PowerShell and reopen it as Administrator** (same as Step 1). This ensures the new policy takes effect.
+
 ---
 
 ### 3. Install Git ⚠️ Manual Step
@@ -67,6 +69,35 @@ The script will automatically:
 | VS Code | `code` | `Microsoft.VisualStudioCode` |
 
 Git is excluded from the script as it must be installed manually first (see Step 3).
+
+---
+
+### 5. Clone this project
+
+In the new PowerShell window, run:
+
+```powershell
+cd ~
+git clone https://github.com/i-dot-ai/kew-away-day.git
+cd kew-away-day
+```
+
+This downloads the project to your home folder and moves into it.
+
+---
+
+### 6. Start Claude Code
+
+In the new PowerShell window, run:
+
+```powershell
+claude --dangerously-skip-permissions
+```
+
+> **What does this do?** Claude Code normally asks you to approve every action
+> it takes (creating files, running commands, etc.). This flag tells it
+> "yes, go ahead" automatically — so you won't be interrupted by permission
+> prompts during the session. This keeps things flowing smoothly.
 
 ---
 
