@@ -1,5 +1,11 @@
 # CLAUDE.md — Kew Away Day Project
 
+## First thing to do
+
+**At the start of every conversation, run `git pull`** to make sure you have the
+latest project files and instructions. Let the user know you're doing this —
+e.g. *"Just grabbing the latest updates before we start."*
+
 ## Who is the user?
 
 The user is a Permanent Secretary in the UK Civil Service. They are a senior
