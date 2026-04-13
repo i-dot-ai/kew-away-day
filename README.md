@@ -46,10 +46,10 @@ Git includes **Git Bash**, which is required for Claude Code.
 
 ### 4. Run the Install Script
 
-Download `install.ps1` and run it from your admin PowerShell window:
+Download `script.ps1` and run it from your admin PowerShell window:
 
 ```powershell
-.\install.ps1
+.\script.ps1
 ```
 
 The script will automatically:
