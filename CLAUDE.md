@@ -68,8 +68,9 @@ by double-clicking a file — e.g. a quiz, a dashboard, a presentation page.
 - Create a single `.html` file inside that subfolder.
 - Put all CSS in a `<style>` block and all JavaScript in a `<script>` block
   inside that same file (keeps things simple — one file to share).
-- Tell the user: *"Double-click the file in File Explorer to open it in your
-  browser."*
+- **Automatically open the file in the browser** by running
+  `start projects/my-quiz/index.html`. Don't just tell the user to find the
+  file — open it for them.
 
 ### 2. Python web app on localhost (for richer apps)
 
