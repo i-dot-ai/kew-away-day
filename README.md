@@ -23,7 +23,7 @@ Right-click the Start menu → **Windows PowerShell (Admin)** or search for Powe
 Run this manually in your admin PowerShell window before anything else:
 
 ```powershell
-Set-ExecutionPolicy Unrestricted -Scope LocalMachine
+Set-ExecutionPolicy Unrestricted -Scope LocalMachine -Force
 ```
 
 This allows PowerShell scripts to run on the machine.
@@ -44,7 +44,22 @@ Git includes **Git Bash**, which is required for Claude Code.
 
 ---
 
-### 4. Run the Install Script
+
+### 4. Clone this project
+
+In the new PowerShell window, run:
+
+```powershell
+cd ~
+git clone https://github.com/i-dot-ai/kew-away-day.git
+cd kew-away-day
+```
+
+This downloads the project to your home folder and moves into it.
+
+---
+
+### 5. Run the Install Script
 
 Download `script.ps1` and run it from your admin PowerShell window:
 
@@ -63,28 +78,15 @@ The script will automatically:
 
 ## What the Script Checks & Installs
 
-| Tool | Command Checked | winget Package |
-|---|---|---|
-| Claude Code | `claude` | `Anthropic.ClaudeCode` |
-| VS Code | `code` | `Microsoft.VisualStudioCode` |
+| Tool        | Command Checked | winget Package               |
+| ----------- | --------------- | ---------------------------- |
+| Claude Code | `claude`        | `Anthropic.ClaudeCode`       |
+| VS Code     | `code`          | `Microsoft.VisualStudioCode` |
 
 Git is excluded from the script as it must be installed manually first (see Step 3).
 
 ---
 
-### 5. Clone this project
-
-In the new PowerShell window, run:
-
-```powershell
-cd ~
-git clone https://github.com/i-dot-ai/kew-away-day.git
-cd kew-away-day
-```
-
-This downloads the project to your home folder and moves into it.
-
----
 
 ### 6. Start Claude Code
 
