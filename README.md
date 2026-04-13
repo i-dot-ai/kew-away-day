@@ -117,6 +117,8 @@ Once done, select
 Bedorck API key (bearer token)
 ```
 
+Chang the region form `us-east-1` to `eu-west-2`
+
 Pass in the Bedrock generated API Key.
 
 ---
