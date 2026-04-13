@@ -51,23 +51,14 @@ Restart powershell and re-run as an admin
 
 ### 4. Clone this project
 
-In the new PowerShell window, run:
+In the new PowerShell window,
+Download `script.ps1` and run it from your admin PowerShell window:
+
 
 ```powershell
 cd ~
 git clone https://github.com/i-dot-ai/kew-away-day.git
 cd kew-away-day
-```
-
-This downloads the project to your home folder and moves into it.
-
----
-
-### 5. Run the Install Script
-
-Download `script.ps1` and run it from your admin PowerShell window:
-
-```powershell
 .\script.ps1
 ```
 
