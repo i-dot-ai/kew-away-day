@@ -42,6 +42,10 @@ winget install Git.Git --silent --accept-package-agreements --accept-source-agre
 
 Git includes **Git Bash**, which is required for Claude Code.
 
+```
+Restart powershell and re-run as an admin
+```
+
 ---
 
 
@@ -85,6 +89,10 @@ The script will automatically:
 
 Git is excluded from the script as it must be installed manually first (see Step 3).
 
+```
+Restart powershell and re-run as an admin
+```
+
 ---
 
 
@@ -108,8 +116,10 @@ claude --dangerously-skip-permissions
 
 When claude-code starts, run:
 
+Login method
+
 ```
-/setup-bedrock
+3rd-party platform -> Amazon Bedrock
 ```
 
 Once done, select
@@ -120,6 +130,10 @@ Bedorck API key (bearer token)
 Chang the region form `us-east-1` to `eu-west-2`
 
 Pass in the Bedrock generated API Key.
+
+```
+Pin to working Models
+```
 
 ---
 
