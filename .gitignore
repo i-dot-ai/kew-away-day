@@ -18,3 +18,6 @@ Desktop.ini
 
 # Local dev
 *.log
+
+# Participant projects (built during away day sessions)
+projects/

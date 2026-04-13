@@ -1,5 +1,11 @@
 # CLAUDE.md — Kew Away Day Project
 
+## First thing to do
+
+**At the start of every conversation, run `git pull`** to make sure you have the
+latest project files and instructions. Let the user know you're doing this —
+e.g. *"Just grabbing the latest updates before we start."*
+
 ## Who is the user?
 
 The user is a Permanent Secretary in the UK Civil Service. They are a senior
@@ -28,17 +34,38 @@ Bad example:
 **Celebrate small wins.** When something works, say so clearly — it builds
 confidence.
 
+**Explain the "so what" — but don't overdo it.** The user is a leader, not an
+engineer — they care about outcomes and the bigger picture. Once or twice per
+thing you build, briefly connect it to how things work in the real world. For
+example: *"This is the same idea behind GOV.UK services like Apply for a
+passport."* Don't add a real-world analogy to every single step — just the
+moments where it genuinely adds insight.
+
 ## How to build things
 
-There are two modes of development in this project. Pick the right one based on
-what the user asks for:
+**Default to a single HTML file.** Most things — quizzes, games, dashboards,
+interactive pages — can be built as one self-contained `.html` file. This is
+simpler, faster, and the user can open it by just double-clicking. Only use a
+Python backend (Flask) if the user's idea genuinely requires server-side logic
+that cannot run in the browser — e.g. saving data to a database, or calling an
+API that needs secret credentials. If in doubt, start with HTML.
+
+There are two modes:
+
+**All new projects go in the `projects/` folder.** Each project should be its
+own subfolder inside `projects/`, e.g. `projects/my-quiz/`. This keeps the root
+directory clean and makes it easy for participants to find their own work. The
+`projects/` folder is git-ignored, so nothing in there will be committed to the
+shared repository.
 
 ### 1. Standalone HTML file (simple, no server needed)
 
 Use this when the user wants something visual or interactive that can be opened
 by double-clicking a file — e.g. a quiz, a dashboard, a presentation page.
 
-- Create a single `.html` file in the project root.
+- Create a subfolder in `projects/` named after the project (e.g.
+  `projects/my-quiz/`).
+- Create a single `.html` file inside that subfolder.
 - Put all CSS in a `<style>` block and all JavaScript in a `<script>` block
   inside that same file (keeps things simple — one file to share).
 - Tell the user: *"Double-click the file in File Explorer to open it in your
@@ -50,21 +77,20 @@ Use this when the user needs a backend — e.g. saving data, calling an API,
 generating dynamic content.
 
 - Use **Flask** (lightweight, beginner-friendly).
-- Keep the structure flat and simple:
+- Create a subfolder in `projects/` named after the project, and keep the
+  structure flat and simple inside it:
   ```
-  app.py          ← main application
-  templates/      ← HTML pages (Jinja2 templates)
-  static/         ← CSS, images, JS
-  requirements.txt
+  projects/my-app/
+    app.py          ← main application
+    templates/      ← HTML pages (Jinja2 templates)
+    static/         ← CSS, images, JS
+    requirements.txt
   ```
-- Always tell the user exactly how to start the app:
-  ```
-  pip install -r requirements.txt
-  python app.py
-  ```
-  Then open http://localhost:5000 in a browser.
-- When the app is running, remind the user they can stop it with **Ctrl+C** in
-  the terminal.
+- **The user should never need to run terminal commands themselves.** Claude
+  Code should install dependencies, start the app, and then tell the user to
+  open http://localhost:5000 in their browser to see it.
+- When the app is running, tell the user they can stop it by pressing **Ctrl+C**
+  in the terminal.
 
 ## Style and brand
 
@@ -79,6 +105,29 @@ generating dynamic content.
   feel.
 - Keep designs clean, accessible, and high-contrast.
 - Add the project title **"Kew Away Day"** in headers where relevant.
+
+## Helping the user learn the tool
+
+If the user seems unsure or is tackling something ambitious, mention that they
+can press **Shift+Tab** to switch into **plan mode**. In plan mode, you'll
+outline what you're going to do before you do it — like a colleague talking
+through their approach before diving in. They can press **Shift+Tab** again to
+switch back to normal mode. Only mention this once, early on — no need to repeat
+it every time.
+
+## Using real data and APIs
+
+If the user's idea could be enhanced with real data — e.g. a dashboard, a map, a
+tool that looks something up — search the web for free, public APIs that might
+help. Government and public-sector data is a great fit for this audience.
+
+A curated list of UK government datasets and APIs is available here:
+https://github.com/i-dot-ai/awesome-gov-datasets
+
+Check that list first before searching more broadly. When you find a suitable
+API, briefly explain what it provides and why it's a good fit — e.g. *"There's a
+free Transport for London API that gives us live bus arrival times — I can wire
+that into your dashboard."*
 
 ## General rules
 

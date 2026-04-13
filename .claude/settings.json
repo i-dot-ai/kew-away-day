@@ -1,0 +1,30 @@
+{
+  "model": "eu.anthropic.claude-opus-4-6-v1",
+  "permissions": {
+    "defaultMode": "acceptEdits",
+    "allow": [
+      "Read",
+      "Edit",
+      "Write",
+      "Glob",
+      "Grep",
+      "Bash",
+      "WebFetch",
+      "WebSearch"
+    ],
+    "deny": [
+      "Bash(rm -rf /)",
+      "Bash(rm -rf ~)",
+      "Bash(rm -rf /*)",
+      "Bash(rm -rf ~/*)",
+      "Bash(git push --force*)",
+      "Bash(git push * --force*)",
+      "Bash(mkfs*)",
+      "Bash(format*)",
+      "Bash(dd if=*)"
+    ]
+  },
+  "companyAnnouncements": [
+    "Hey Perm Sec! Welcome to the Kew Away Day. I'm your coding assistant — think of me as a colleague who happens to know how to code. You tell me what to build and I'll build it right here, explaining what I'm doing along the way. We've set up this environment so everything just works, so go wild — ask me to make a quiz, a game, a dashboard, a tool, whatever takes your fancy. What would you like to create today?"
+  ]
+}
