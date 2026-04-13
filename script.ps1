@@ -1,17 +1,33 @@
 # Run as Administrator
 
-# Git
-winget install Git.Git --silent --accept-package-agreements --accept-source-agreements
-
-# Claude Code
-winget install Anthropic.ClaudeCode --silent --accept-package-agreements --accept-source-agreements
-
-# VS Code - only install if not already present
-if (-not (Get-Command code -ErrorAction SilentlyContinue)) {
-    Write-Host "VS Code not found, installing..." -ForegroundColor Yellow
-    winget install Microsoft.VisualStudioCode --silent --accept-package-agreements --accept-source-agreements
-} else {
-    Write-Host "VS Code already installed, skipping." -ForegroundColor Green
+function Check-Installed($command) {
+    return [bool](Get-Command $command -ErrorAction SilentlyContinue)
 }
 
-Write-Host "Done" -ForegroundColor Green
+# Git
+if (Check-Installed "git") {
+    Write-Host "Git already installed, skipping." -ForegroundColor Green
+} else {
+    Write-Host "Installing Git..." -ForegroundColor Yellow
+    winget install Git.Git --silent --accept-package-agreements --accept-source-agreements
+}
+
+# Claude Code
+if (Check-Installed "claude") {
+    Write-Host "Claude Code already installed, skipping." -ForegroundColor Green
+} else {
+    Write-Host "Installing Claude Code..." -ForegroundColor Yellow
+    winget install Anthropic.ClaudeCode --silent --accept-package-agreements --accept-source-agreements
+}
+
+# VS Code
+if (Check-Installed "code") {
+    Write-Host "VS Code already installed, skipping." -ForegroundColor Green
+} else {
+    Write-Host "Installing VS Code..." -ForegroundColor Yellow
+    winget install Microsoft.VisualStudioCode --silent --accept-package-agreements --accept-source-agreements
+}
+
+Write-Host "Done - opening new terminal window..." -ForegroundColor Green
+Start-Process powershell -Verb RunAs
+Stop-Process -Id $PID
