@@ -1,0 +1,45 @@
+{
+  // ── Python ──────────────────────────────────────────────
+  "python.defaultInterpreterPath": "python",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+
+  // ── Editor defaults ─────────────────────────────────────
+  "editor.fontSize": 14,
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+
+  // ── Terminal ────────────────────────────────────────────
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+
+  // ── Files ───────────────────────────────────────────────
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.pytest_cache": true,
+    "**/*.pyc": true
+  },
+
+  // ── Local dev server (Flask / FastAPI) ──────────────────
+  "python.terminal.launchArgs": [],
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.doNotShowInfoMsg": true,
+
+  // ── HTML / CSS / JS (for standalone .html apps) ─────────
+  "html.format.wrapLineLength": 120,
+  "emmet.includeLanguages": {
+    "html": "html",
+    "jinja-html": "html"
+  },
+
+  // ── Explorer ────────────────────────────────────────────
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.startupEditor": "none"
+}
