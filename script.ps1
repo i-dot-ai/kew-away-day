@@ -28,6 +28,4 @@ if (Check-Installed "code") {
     winget install Microsoft.VisualStudioCode --silent --accept-package-agreements --accept-source-agreements
 }
 
-Write-Host "Done - opening new terminal window..." -ForegroundColor Green
-Start-Process powershell -Verb RunAs
-Stop-Process -Id $PID
+Write-Host "Done - please restart PowerShell to pick up changes..." -ForegroundColor Green
