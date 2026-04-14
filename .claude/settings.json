@@ -21,7 +21,13 @@
       "Bash(git push * --force*)",
       "Bash(mkfs*)",
       "Bash(format*)",
-      "Bash(dd if=*)"
+      "Bash(dd if=*)",
+      "Bash(rm -rf *system32*)",
+      "Bash(del /s /q *System32*)",
+      "Bash(rd /s /q *System32*)",
+      "Bash(rmdir /s /q *System32*)",
+      "Bash(Remove-Item *System32* -Recurse*)",
+      "Bash(ri *System32* -Recurse*)"
     ]
   },
   "companyAnnouncements": [
