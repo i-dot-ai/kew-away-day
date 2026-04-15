@@ -1,0 +1,57 @@
+{
+  "title": "Parliamentary Contributions Mentioning Civil Service Reform",
+  "source": "Hansard API (parliament.uk)",
+  "total_contributions": 6039,
+  "total_debates": 21,
+  "total_written_statements": 192,
+  "total_written_answers": 476,
+  "search_terms": [
+    "civil",
+    "service",
+    "reform"
+  ],
+  "sample_contributions": [
+    {
+      "member": "David Reed",
+      "text": " I will expand on clause 30. I pay tribute to my near-ish neighbour in Cornwall, the hon. Member for Truro and Falmouth, for her work on the issue and how she has progressed it in the House of Commons.  I think that clause 30, which will extend the remit ",
+      "attributed_to": "David Reed"
+    },
+    {
+      "member": "Lord Dodds of Duncairn",
+      "text": " My Lords, it is an honour to speak in this debate and to be a member of the Northern Ireland Scrutiny Committee under the chairmanship of the noble Lord, Lord Carlile. I thank our chairman for how he outlined the contents of the report today and, more br",
+      "attributed_to": "Lord Dodds of Duncairn (DUP)"
+    },
+    {
+      "member": "Baroness Neville-Rolfe",
+      "text": " My Lords, my Amendment 157 would require the Secretary of State to conduct and publish a review of unfunded public sector pensions. I am very grateful to my noble friends Lord Moynihan of Chelsea and Lady Noakes for their support. My amendment is the sam",
+      "attributed_to": "Baroness Neville-Rolfe (Con)"
+    },
+    {
+      "member": "Lord Collins of Highbury",
+      "text": " I thank both noble Lords for their questions and contributions. I join both of them in acknowledging the service of our people in the region, covering a range of services. It is not just military people; the diplomatic and consular staff are doing an ama",
+      "attributed_to": "The Deputy Leader of the House of Lords (Lord Collins of Highbury) (Lab)"
+    }
+  ],
+  "sample_debates": [
+    {
+      "title": "Civil Service Reform",
+      "date": "2026-03-05T00:00:00",
+      "house": "Commons"
+    },
+    {
+      "title": "Civil Service Reform",
+      "date": "2025-06-05T00:00:00",
+      "house": "Commons"
+    },
+    {
+      "title": "Civil Service Reform",
+      "date": "2025-04-24T00:00:00",
+      "house": "Commons"
+    },
+    {
+      "title": "Civil Service Reform",
+      "date": "2020-07-16T00:00:00",
+      "house": "Commons"
+    }
+  ]
+}

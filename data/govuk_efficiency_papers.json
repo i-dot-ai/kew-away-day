@@ -1,0 +1,117 @@
+{
+  "title": "GOV.UK Policy Papers on Government Efficiency & Productivity",
+  "source": "GOV.UK Content API",
+  "count": 10,
+  "data": [
+    {
+      "title": "Warm Homes Plan",
+      "public_timestamp": "2026-03-18T15:27:18Z",
+      "description": "This plan sets out how we will cut energy bills and upgrade homes.",
+      "link": "/government/publications/warm-homes-plan",
+      "index": "govuk",
+      "es_score": 0.043677077,
+      "_id": "/government/publications/warm-homes-plan",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Carbon budget and growth delivery plan",
+      "public_timestamp": "2025-10-29T00:00:00Z",
+      "description": "The Carbon Budget and Growth Delivery Plan sets out how the government meets its statutory carbon budgets and secure the benefits of this transition for people and businesses.",
+      "link": "/government/publications/carbon-budget-and-growth-delivery-plan",
+      "index": "govuk",
+      "es_score": 0.04198086,
+      "_id": "/government/publications/carbon-budget-and-growth-delivery-plan",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Digital and Data Benefits framework",
+      "public_timestamp": "2026-04-07T12:46:00Z",
+      "description": "This framework helps analysts across government quantify benefits of digital and data programmes. ",
+      "link": "/government/publications/digital-and-data-benefits-framework",
+      "index": "govuk",
+      "es_score": 0.03807105,
+      "_id": "/government/publications/digital-and-data-benefits-framework",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Departmental Efficiency Delivery Plans",
+      "public_timestamp": "2025-06-11T12:17:57Z",
+      "description": "An overview of departmental efficiency targets and delivery plans for Spending Review 2025.",
+      "link": "/government/publications/departmental-efficiency-delivery-plans",
+      "index": "govuk",
+      "es_score": 0.037868917,
+      "_id": "/government/publications/departmental-efficiency-delivery-plans",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "2010 to 2015 government policy: energy demand reduction in industry, business and the public sector",
+      "public_timestamp": "2016-02-16T10:42:27Z",
+      "description": "What we\u2019re doing to help industry, businesses and the public sector save energy.",
+      "link": "/government/publications/2010-to-2015-government-policy-energy-demand-reduction-in-industry-business-and-the-public-sector",
+      "index": "govuk",
+      "es_score": 0.037780017,
+      "_id": "/government/publications/2010-to-2015-government-policy-energy-demand-reduction-in-industry-business-and-the-public-sector",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "NS&I main estimates memorandum 2024 to 2025 (July 2024)",
+      "public_timestamp": "2025-02-12T14:00:06Z",
+      "description": "This memorandum provides information on NS&I\u2019s budget as included within the 2024 to 2025 Main Estimates. ",
+      "link": "/government/publications/nsi-main-estimates-memorandum-2024-to-2025-july-2024",
+      "index": "govuk",
+      "es_score": 0.037002217,
+      "_id": "/government/publications/nsi-main-estimates-memorandum-2024-to-2025-july-2024",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Financial Inclusion Strategy",
+      "public_timestamp": "2025-11-05T00:00:00Z",
+      "description": "The Financial Inclusion Strategy sets out the government\u2019s approach to improving financial inclusion for underserved groups across the UK. ",
+      "link": "/government/publications/financial-inclusion-strategy",
+      "index": "govuk",
+      "es_score": 0.035187215,
+      "_id": "/government/publications/financial-inclusion-strategy",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Budget 2025 document",
+      "public_timestamp": "2025-11-28T14:37:23Z",
+      "description": "This is the full Budget 2025 document in print, web and HTML accessible versions.",
+      "link": "/government/publications/budget-2025-document",
+      "index": "govuk",
+      "es_score": 0.034274988,
+      "_id": "/government/publications/budget-2025-document",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Spending Review 2025 document",
+      "public_timestamp": "2025-06-30T11:22:05Z",
+      "description": "This is the full Spending Review 2025 document in print, web and HTML accessible versions.",
+      "link": "/government/publications/spending-review-2025-document",
+      "index": "govuk",
+      "es_score": 0.034006342,
+      "_id": "/government/publications/spending-review-2025-document",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Office of the Public Guardian digital strategy: 2014 to 2015",
+      "public_timestamp": "2020-10-01T13:37:40Z",
+      "description": "What the Office of the Public Guardian is doing and plans to do to provide its services digitally.\r\n",
+      "link": "/government/publications/office-of-the-public-guardian-digital-strategy-2014-to-2015",
+      "index": "govuk",
+      "es_score": 0.03335972,
+      "_id": "/government/publications/office-of-the-public-guardian-digital-strategy-2014-to-2015",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    }
+  ]
+}
