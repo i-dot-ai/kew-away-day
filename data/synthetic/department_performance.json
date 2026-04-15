@@ -846,6 +846,138 @@
           "people_survey_change": 1
         }
       }
+    },
+    {
+      "abbr": "Security Agencies",
+      "name": "Security and Intelligence Agencies",
+      "headcount": 18500,
+      "budget_billions": 4.2,
+      "permanent_secretary": "Classified",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Green",
+          "score": 89,
+          "summary": "Threat disruption rate at highest level. Intelligence product quality consistently strong. AUKUS Pillar 2 technology sharing on track.",
+          "ai_adoption_pct": 48,
+          "efficiency_savings_millions": 180
+        },
+        "2_policy_advice": {
+          "rating": "Green",
+          "score": 92,
+          "summary": "Timely and relevant intelligence informing PM and NSC decision-making. Joint Intelligence Committee outputs highly valued.",
+          "ai_adoption_pct": 48,
+          "efficiency_savings_millions": 180
+        },
+        "3_cabinet_government": {
+          "rating": "Green",
+          "score": 90,
+          "summary": "Excellent NSC engagement. Crisis response and COBRA support consistently strong. Intelligence sharing with allies well managed.",
+          "ai_adoption_pct": 48,
+          "efficiency_savings_millions": 180
+        },
+        "4_cs_reform": {
+          "rating": "Amber-Green",
+          "score": 75,
+          "summary": "AI adoption advanced in analytical tradecraft. Workforce diversification progressing. Security constraints limit some cross-government technology sharing.",
+          "ai_adoption_pct": 48,
+          "efficiency_savings_millions": 180
+        },
+        "5_culture": {
+          "rating": "Amber-Green",
+          "score": 76,
+          "summary": "Strong mission-driven culture and loyalty. Retention good but recruitment pipeline needs broadening. Inclusion and openness improving steadily.",
+          "people_survey_engagement": 71,
+          "people_survey_change": 2
+        }
+      }
+    },
+    {
+      "abbr": "SG",
+      "name": "Scottish Government",
+      "headcount": 7200,
+      "budget_billions": 46.5,
+      "permanent_secretary": "John-Paul Marks",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Amber-Green",
+          "score": 72,
+          "summary": "Programme for Government delivery progressing. NHS Scotland recovery plan showing improvement. Economic challenges remain with fiscal constraints.",
+          "ai_adoption_pct": 29,
+          "efficiency_savings_millions": 155
+        },
+        "2_policy_advice": {
+          "rating": "Green",
+          "score": 82,
+          "summary": "Strong policy development capability. Distinctive Scottish approaches well evidenced. Good use of international comparators through Nordic and small-nation networks.",
+          "ai_adoption_pct": 29,
+          "efficiency_savings_millions": 155
+        },
+        "3_cabinet_government": {
+          "rating": "Amber",
+          "score": 66,
+          "summary": "Scottish Cabinet processes functioning well internally. Intergovernmental relations through Interministerial Standing Committee improved but pace of engagement from Whitehall remains a frustration.",
+          "ai_adoption_pct": 29,
+          "efficiency_savings_millions": 155
+        },
+        "4_cs_reform": {
+          "rating": "Amber",
+          "score": 62,
+          "summary": "Digital Scotland strategy progressing. AI adoption at 29% — below stretch target. Workforce planning underway but efficiencies harder to achieve with tight fiscal settlement.",
+          "ai_adoption_pct": 29,
+          "efficiency_savings_millions": 155
+        },
+        "5_culture": {
+          "rating": "Amber-Green",
+          "score": 71,
+          "summary": "People Survey engagement stable. Strong public service ethos. Senior leadership refresh underway following period of change. Values and ethics framework well embedded.",
+          "people_survey_engagement": 63,
+          "people_survey_change": 1
+        }
+      }
+    },
+    {
+      "abbr": "WG",
+      "name": "Welsh Government",
+      "headcount": 5800,
+      "budget_billions": 21.3,
+      "permanent_secretary": "Andrew Goodall",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Amber-Green",
+          "score": 73,
+          "summary": "Programme for Government delivery broadly on track. NHS Wales waiting times improving but fragile. Economic Mission showing early results. Intergovernmental coordination strengthened through new frameworks.",
+          "ai_adoption_pct": 32,
+          "efficiency_savings_millions": 120
+        },
+        "2_policy_advice": {
+          "rating": "Green",
+          "score": 84,
+          "summary": "Strong policy advice to First Minister and Cabinet. Distinctive Welsh policy development well evidenced. Good use of Well-being of Future Generations framework for long-term thinking.",
+          "ai_adoption_pct": 32,
+          "efficiency_savings_millions": 120
+        },
+        "3_cabinet_government": {
+          "rating": "Amber-Green",
+          "score": 74,
+          "summary": "Welsh Cabinet and committee processes functioning well. Intergovernmental relations through Interministerial Standing Committee improving but some frustrations remain on pace of Whitehall engagement.",
+          "ai_adoption_pct": 32,
+          "efficiency_savings_millions": 120
+        },
+        "4_cs_reform": {
+          "rating": "Amber",
+          "score": 64,
+          "summary": "AI adoption at 32% — above some larger departments but below stretch target. Digital strategy for Wales progressing. Efficiency savings on track but workforce planning needs acceleration. Legacy IT systems being modernised.",
+          "ai_adoption_pct": 32,
+          "efficiency_savings_millions": 120
+        },
+        "5_culture": {
+          "rating": "Amber-Green",
+          "score": 74,
+          "summary": "People Survey engagement at 64, up 2 points. Strong Welsh identity and bilingual culture. Social partnership model well embedded. Senior leadership pipeline being strengthened.",
+          "people_survey_engagement": 64,
+          "people_survey_change": 2
+        }
+      }
     }
   ]
 }
