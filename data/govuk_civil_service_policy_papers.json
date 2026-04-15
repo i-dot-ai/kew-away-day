@@ -1,0 +1,172 @@
+{
+  "title": "Recent GOV.UK Policy Papers on Civil Service Reform",
+  "source": "GOV.UK Content API",
+  "count": 15,
+  "data": [
+    {
+      "title": "CSPL Submission to PACAC Inquiry on Civil Service Leadership and Reform",
+      "public_timestamp": "2023-12-08T00:00:00Z",
+      "description": "CSPL submitted written evidence to PACAC's inquiry on Civil Service Leadership and Reform ",
+      "link": "/government/publications/cspl-submission-to-pacac-inquiry-on-civil-service-leadership-and-reform",
+      "index": "govuk",
+      "es_score": 0.1675724,
+      "_id": "/government/publications/cspl-submission-to-pacac-inquiry-on-civil-service-leadership-and-reform",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Civil Service Reform: One Year On \u2013 DECC",
+      "public_timestamp": "2013-07-10T10:04:24Z",
+      "description": "Department of Energy and Climate Change progress on Civil Service Reform",
+      "link": "/government/publications/civil-service-reform-one-year-on-decc",
+      "index": "govuk",
+      "es_score": 0.123933755,
+      "_id": "/government/publications/civil-service-reform-one-year-on-decc",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Civil Service Reform: One Year On \u2013 DFID",
+      "public_timestamp": "2013-07-10T09:41:47Z",
+      "description": "Summary of civil service reform implementation progress within DFID",
+      "link": "/government/publications/civil-service-reform-one-year-on-dfid",
+      "index": "govuk",
+      "es_score": 0.12228717,
+      "_id": "/government/publications/civil-service-reform-one-year-on-dfid",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Civil Service Reform plan: progress report",
+      "public_timestamp": "2014-10-07T09:59:35Z",
+      "description": "Updated progress report on the recommendations made in the Civil Service Reform Plan.",
+      "link": "/government/publications/civil-service-reform-plan-progress-report",
+      "index": "govuk",
+      "es_score": 0.12036106,
+      "_id": "/government/publications/civil-service-reform-plan-progress-report",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "2010 to 2015 government policy: civil service reform",
+      "public_timestamp": "2015-05-08T12:27:30Z",
+      "description": "We're reforming the civil service to make sure it is capable of meeting any challenge.",
+      "link": "/government/publications/2010-to-2015-government-policy-civil-service-reform",
+      "index": "govuk",
+      "es_score": 0.11849018,
+      "_id": "/government/publications/2010-to-2015-government-policy-civil-service-reform",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Civil Service Reform: One Year On \u2013 MOJ",
+      "public_timestamp": "2013-07-10T09:30:12Z",
+      "description": "A short summary of implementation progress within our department.",
+      "link": "/government/publications/civil-service-reform-one-year-on-moj",
+      "index": "govuk",
+      "es_score": 0.07455462,
+      "_id": "/government/publications/civil-service-reform-one-year-on-moj",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Declaration on Government Reform",
+      "public_timestamp": "2021-06-15T10:30:00Z",
+      "description": "The Declaration on Government Reform outlines how the Civil Service and Ministers will reform government together to deliver better for citizens.",
+      "link": "/government/publications/declaration-on-government-reform",
+      "index": "govuk",
+      "es_score": 0.04058781,
+      "_id": "/government/publications/declaration-on-government-reform",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Review of cross-government horizon scanning",
+      "public_timestamp": "2013-01-21T00:00:00Z",
+      "description": "In the Civil Service Reform Plan, the government committed to a cross-government review of horizon scanning capability.",
+      "link": "/government/publications/review-of-cross-government-horizon-scanning",
+      "index": "govuk",
+      "es_score": 0.03957056,
+      "_id": "/government/publications/review-of-cross-government-horizon-scanning",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Civil service compensation scheme",
+      "public_timestamp": "2010-12-17T00:00:00Z",
+      "description": "The government has moved a step closer to achieving its ambition of implementing a reformed civil service compensation scheme (CSCS).",
+      "link": "/government/publications/civil-service-compensation-scheme",
+      "index": "govuk",
+      "es_score": 0.03658014,
+      "_id": "/government/publications/civil-service-compensation-scheme",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Civil Service Diversity and Inclusion Strategy: 2022 to 2025",
+      "public_timestamp": "2022-02-24T00:15:00Z",
+      "description": "This strategy sets a new standard for diversity and inclusion, championing a diversity of backgrounds and opinions to better promote fairness and performance.",
+      "link": "/government/publications/civil-service-diversity-and-inclusion-strategy-2022-to-2025",
+      "index": "govuk",
+      "es_score": 0.02891018,
+      "_id": "/government/publications/civil-service-diversity-and-inclusion-strategy-2022-to-2025",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Cabinet Office Records Selection Policy",
+      "public_timestamp": "2023-12-29T00:00:00Z",
+      "description": "This document gives the Cabinet Office's approach to the selection of records for permanent preservation in line with the Public Records Act 1958.",
+      "link": "/government/publications/cabinet-office-records-selection-policy",
+      "index": "govuk",
+      "es_score": 0.027317034,
+      "_id": "/government/publications/cabinet-office-records-selection-policy",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Neighbourhood health framework",
+      "public_timestamp": "2026-03-17T15:31:00Z",
+      "description": "How ICBs, local authorities, health and wellbeing boards and other partners should create and deliver neighbourhood health services.",
+      "link": "/government/publications/neighbourhood-health-framework",
+      "index": "govuk",
+      "es_score": 0.026311457,
+      "_id": "/government/publications/neighbourhood-health-framework",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Civil Service Apprenticeships Strategy, 2022 to 2025",
+      "public_timestamp": "2022-04-28T08:30:00Z",
+      "description": "How the Civil Service will provide good quality entry and progression pathways for apprentices over the next 3 years.",
+      "link": "/government/publications/civil-service-apprenticeships-strategy-2022-to-2025",
+      "index": "govuk",
+      "es_score": 0.025851741,
+      "_id": "/government/publications/civil-service-apprenticeships-strategy-2022-to-2025",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Renters' Rights Act 2025: Implementation roadmap",
+      "public_timestamp": "2025-11-13T22:30:03Z",
+      "description": "The roadmap explains how the government will implement the Renters' Rights Act 2025 and reform the private rented sector.",
+      "link": "/government/publications/renters-rights-act-2025-implementation-roadmap",
+      "index": "govuk",
+      "es_score": 0.025396328,
+      "_id": "/government/publications/renters-rights-act-2025-implementation-roadmap",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Reforming the spending control and accountability framework",
+      "public_timestamp": "2025-11-26T00:00:00Z",
+      "description": "A report on the government\u2019s plans to reform the public spending control and accountability framework",
+      "link": "/government/publications/reforming-the-spending-control-and-accountability-framework",
+      "index": "govuk",
+      "es_score": 0.025374988,
+      "_id": "/government/publications/reforming-the-spending-control-and-accountability-framework",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    }
+  ]
+}

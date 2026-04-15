@@ -1,0 +1,609 @@
+{
+  "title": "UK Unemployment Rate (16+)",
+  "source": "ONS",
+  "series_id": "MGSX",
+  "dataset": "LMS",
+  "unit": "percentage",
+  "data": [
+    {
+      "date": "2021 JAN",
+      "value": "5.0",
+      "label": "2020 DEC-FEB",
+      "year": "2021",
+      "month": "January",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2021 FEB",
+      "value": "4.9",
+      "label": "2021 JAN-MAR",
+      "year": "2021",
+      "month": "February",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2021 MAR",
+      "value": "4.8",
+      "label": "2021 FEB-APR",
+      "year": "2021",
+      "month": "March",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2021 APR",
+      "value": "4.8",
+      "label": "2021 MAR-MAY",
+      "year": "2021",
+      "month": "April",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2021 MAY",
+      "value": "4.7",
+      "label": "2021 APR-JUN",
+      "year": "2021",
+      "month": "May",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2021 JUN",
+      "value": "4.6",
+      "label": "2021 MAY-JUL",
+      "year": "2021",
+      "month": "June",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2021 JUL",
+      "value": "4.5",
+      "label": "2021 JUN-AUG",
+      "year": "2021",
+      "month": "July",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2021 AUG",
+      "value": "4.4",
+      "label": "2021 JUL-SEP",
+      "year": "2021",
+      "month": "August",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-02-13T00:00:00.000Z"
+    },
+    {
+      "date": "2021 SEP",
+      "value": "4.3",
+      "label": "2021 AUG-OCT",
+      "year": "2021",
+      "month": "September",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-02-13T00:00:00.000Z"
+    },
+    {
+      "date": "2021 OCT",
+      "value": "4.2",
+      "label": "2021 SEP-NOV",
+      "year": "2021",
+      "month": "October",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-02-13T00:00:00.000Z"
+    },
+    {
+      "date": "2021 NOV",
+      "value": "4.2",
+      "label": "2021 OCT-DEC",
+      "year": "2021",
+      "month": "November",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-02-13T00:00:00.000Z"
+    },
+    {
+      "date": "2021 DEC",
+      "value": "4.1",
+      "label": "2021 NOV-JAN",
+      "year": "2021",
+      "month": "December",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-02-13T00:00:00.000Z"
+    },
+    {
+      "date": "2022 JAN",
+      "value": "3.9",
+      "label": "2021 DEC-FEB",
+      "year": "2022",
+      "month": "January",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2022 FEB",
+      "value": "3.8",
+      "label": "2022 JAN-MAR",
+      "year": "2022",
+      "month": "February",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2022 MAR",
+      "value": "3.8",
+      "label": "2022 FEB-APR",
+      "year": "2022",
+      "month": "March",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2022 APR",
+      "value": "3.7",
+      "label": "2022 MAR-MAY",
+      "year": "2022",
+      "month": "April",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2022 MAY",
+      "value": "3.8",
+      "label": "2022 APR-JUN",
+      "year": "2022",
+      "month": "May",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2022 JUN",
+      "value": "3.6",
+      "label": "2022 MAY-JUL",
+      "year": "2022",
+      "month": "June",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2022 JUL",
+      "value": "3.6",
+      "label": "2022 JUN-AUG",
+      "year": "2022",
+      "month": "July",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-02-13T00:00:00.000Z"
+    },
+    {
+      "date": "2022 AUG",
+      "value": "3.7",
+      "label": "2022 JUL-SEP",
+      "year": "2022",
+      "month": "August",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2022 SEP",
+      "value": "3.8",
+      "label": "2022 AUG-OCT",
+      "year": "2022",
+      "month": "September",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2022 OCT",
+      "value": "3.9",
+      "label": "2022 SEP-NOV",
+      "year": "2022",
+      "month": "October",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2022 NOV",
+      "value": "3.9",
+      "label": "2022 OCT-DEC",
+      "year": "2022",
+      "month": "November",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-02-13T00:00:00.000Z"
+    },
+    {
+      "date": "2022 DEC",
+      "value": "3.9",
+      "label": "2022 NOV-JAN",
+      "year": "2022",
+      "month": "December",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2023 JAN",
+      "value": "4.0",
+      "label": "2022 DEC-FEB",
+      "year": "2023",
+      "month": "January",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2023 FEB",
+      "value": "4.0",
+      "label": "2023 JAN-MAR",
+      "year": "2023",
+      "month": "February",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-02-13T00:00:00.000Z"
+    },
+    {
+      "date": "2023 MAR",
+      "value": "3.9",
+      "label": "2023 FEB-APR",
+      "year": "2023",
+      "month": "March",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-02-13T00:00:00.000Z"
+    },
+    {
+      "date": "2023 APR",
+      "value": "4.0",
+      "label": "2023 MAR-MAY",
+      "year": "2023",
+      "month": "April",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2023-07-10T23:00:00.000Z"
+    },
+    {
+      "date": "2023 MAY",
+      "value": "4.2",
+      "label": "2023 APR-JUN",
+      "year": "2023",
+      "month": "May",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2023-08-14T23:00:00.000Z"
+    },
+    {
+      "date": "2023 JUN",
+      "value": "4.3",
+      "label": "2023 MAY-JUL",
+      "year": "2023",
+      "month": "June",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2023-09-11T23:00:00.000Z"
+    },
+    {
+      "date": "2023 JUL",
+      "value": "4.3",
+      "label": "2023 JUN-AUG",
+      "year": "2023",
+      "month": "July",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2023 AUG",
+      "value": "4.1",
+      "label": "2023 JUL-SEP",
+      "year": "2023",
+      "month": "August",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-02-13T00:00:00.000Z"
+    },
+    {
+      "date": "2023 SEP",
+      "value": "4.0",
+      "label": "2023 AUG-OCT",
+      "year": "2023",
+      "month": "September",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-02-13T00:00:00.000Z"
+    },
+    {
+      "date": "2023 OCT",
+      "value": "4.0",
+      "label": "2023 SEP-NOV",
+      "year": "2023",
+      "month": "October",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2023 NOV",
+      "value": "3.9",
+      "label": "2023 OCT-DEC",
+      "year": "2023",
+      "month": "November",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2023 DEC",
+      "value": "4.1",
+      "label": "2023 NOV-JAN",
+      "year": "2023",
+      "month": "December",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2024 JAN",
+      "value": "4.2",
+      "label": "2023 DEC-FEB",
+      "year": "2024",
+      "month": "January",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-04-15T23:00:00.000Z"
+    },
+    {
+      "date": "2024 FEB",
+      "value": "4.3",
+      "label": "2024 JAN-MAR",
+      "year": "2024",
+      "month": "February",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-05-13T23:00:00.000Z"
+    },
+    {
+      "date": "2024 MAR",
+      "value": "4.4",
+      "label": "2024 FEB-APR",
+      "year": "2024",
+      "month": "March",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-06-10T23:00:00.000Z"
+    },
+    {
+      "date": "2024 APR",
+      "value": "4.4",
+      "label": "2024 MAR-MAY",
+      "year": "2024",
+      "month": "April",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-07-17T23:00:00.000Z"
+    },
+    {
+      "date": "2024 MAY",
+      "value": "4.2",
+      "label": "2024 APR-JUN",
+      "year": "2024",
+      "month": "May",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-08-12T23:00:00.000Z"
+    },
+    {
+      "date": "2024 JUN",
+      "value": "4.2",
+      "label": "2024 MAY-JUL",
+      "year": "2024",
+      "month": "June",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2024 JUL",
+      "value": "4.1",
+      "label": "2024 JUN-AUG",
+      "year": "2024",
+      "month": "July",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2024 AUG",
+      "value": "4.3",
+      "label": "2024 JUL-SEP",
+      "year": "2024",
+      "month": "August",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-11-12T00:00:00.000Z"
+    },
+    {
+      "date": "2024 SEP",
+      "value": "4.3",
+      "label": "2024 AUG-OCT",
+      "year": "2024",
+      "month": "September",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2024-12-17T00:00:00.000Z"
+    },
+    {
+      "date": "2024 OCT",
+      "value": "4.4",
+      "label": "2024 SEP-NOV",
+      "year": "2024",
+      "month": "October",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2025-01-21T00:00:00.000Z"
+    },
+    {
+      "date": "2024 NOV",
+      "value": "4.4",
+      "label": "2024 OCT-DEC",
+      "year": "2024",
+      "month": "November",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2025-02-18T00:00:00.000Z"
+    },
+    {
+      "date": "2024 DEC",
+      "value": "4.4",
+      "label": "2024 NOV-JAN",
+      "year": "2024",
+      "month": "December",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2025-03-20T00:00:00.000Z"
+    },
+    {
+      "date": "2025 JAN",
+      "value": "4.4",
+      "label": "2024 DEC-FEB",
+      "year": "2025",
+      "month": "January",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2025-04-14T23:00:00.000Z"
+    },
+    {
+      "date": "2025 FEB",
+      "value": "4.5",
+      "label": "2025 JAN-MAR",
+      "year": "2025",
+      "month": "February",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2025-05-12T23:00:00.000Z"
+    },
+    {
+      "date": "2025 MAR",
+      "value": "4.6",
+      "label": "2025 FEB-APR",
+      "year": "2025",
+      "month": "March",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2025-06-09T23:00:00.000Z"
+    },
+    {
+      "date": "2025 APR",
+      "value": "4.7",
+      "label": "2025 MAR-MAY",
+      "year": "2025",
+      "month": "April",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2025-07-16T23:00:00.000Z"
+    },
+    {
+      "date": "2025 MAY",
+      "value": "4.7",
+      "label": "2025 APR-JUN",
+      "year": "2025",
+      "month": "May",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2025-08-11T23:00:00.000Z"
+    },
+    {
+      "date": "2025 JUN",
+      "value": "4.7",
+      "label": "2025 MAY-JUL",
+      "year": "2025",
+      "month": "June",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2025-09-15T23:00:00.000Z"
+    },
+    {
+      "date": "2025 JUL",
+      "value": "4.8",
+      "label": "2025 JUN-AUG",
+      "year": "2025",
+      "month": "July",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2025-10-13T23:00:00.000Z"
+    },
+    {
+      "date": "2025 AUG",
+      "value": "5.0",
+      "label": "2025 JUL-SEP",
+      "year": "2025",
+      "month": "August",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2025-11-11T00:00:00.000Z"
+    },
+    {
+      "date": "2025 SEP",
+      "value": "5.1",
+      "label": "2025 AUG-OCT",
+      "year": "2025",
+      "month": "September",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2025-12-16T00:00:00.000Z"
+    },
+    {
+      "date": "2025 OCT",
+      "value": "5.1",
+      "label": "2025 SEP-NOV",
+      "year": "2025",
+      "month": "October",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2026-01-20T00:00:00.000Z"
+    },
+    {
+      "date": "2025 NOV",
+      "value": "5.2",
+      "label": "2025 OCT-DEC",
+      "year": "2025",
+      "month": "November",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2026-02-17T00:00:00.000Z"
+    },
+    {
+      "date": "2025 DEC",
+      "value": "5.2",
+      "label": "2025 NOV-JAN",
+      "year": "2025",
+      "month": "December",
+      "quarter": "",
+      "sourceDataset": "LMS",
+      "updateDate": "2026-03-19T00:00:00.000Z"
+    }
+  ]
+}

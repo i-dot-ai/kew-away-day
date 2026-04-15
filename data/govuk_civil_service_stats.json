@@ -1,0 +1,117 @@
+{
+  "title": "Civil Service Statistics Data Sets (GOV.UK)",
+  "source": "GOV.UK Content API",
+  "count": 10,
+  "data": [
+    {
+      "title": "Migration transparency data",
+      "public_timestamp": "2026-03-26T09:30:22Z",
+      "description": "Data on Border Force, UK Visas and Immigration, Immigration Enforcement and Passports, Citizenship and Civil Registration performance.\r\n\r\n",
+      "link": "/government/statistical-data-sets/migration-transparency-data",
+      "index": "govuk",
+      "es_score": 0.025932405,
+      "_id": "/government/statistical-data-sets/migration-transparency-data",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "HMCTS management information - modernised services December 2025",
+      "public_timestamp": "2026-03-12T09:30:06Z",
+      "description": "The management information used by HMCTS to measure the progress of services modernised under the Reform Programme.",
+      "link": "/government/statistical-data-sets/hmcts-management-information-modernised-services-december-2025",
+      "index": "govuk",
+      "es_score": 0.02236528,
+      "_id": "/government/statistical-data-sets/hmcts-management-information-modernised-services-december-2025",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "HMCTS management information \u2013 modernised services August 2025",
+      "public_timestamp": "2025-10-09T08:30:00Z",
+      "description": "The management information used by HMCTS to measure the progress of services modernised under the Reform Programme.",
+      "link": "/government/statistical-data-sets/hmcts-management-information-modernised-services-october-2025",
+      "index": "govuk",
+      "es_score": 0.02215661,
+      "_id": "/government/statistical-data-sets/hmcts-management-information-modernised-services-october-2025",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "HMCTS management information \u2013 modernised services December 2024",
+      "public_timestamp": "2025-03-13T00:00:00Z",
+      "description": "The management information used by HMCTS to measure the progress of services modernised under the Reform Programme.",
+      "link": "/government/statistical-data-sets/hmcts-management-information-reformed-services-december-2024",
+      "index": "govuk",
+      "es_score": 0.021924337,
+      "_id": "/government/statistical-data-sets/hmcts-management-information-reformed-services-december-2024",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "HMCTS management information \u2013 modernised services August 2024",
+      "public_timestamp": "2024-10-10T08:30:00Z",
+      "description": "The management information used by HMCTS to measure the progress of services modernised under the Reform Programme.",
+      "link": "/government/statistical-data-sets/hmcts-management-information-reformed-services-october-2024",
+      "index": "govuk",
+      "es_score": 0.021828594,
+      "_id": "/government/statistical-data-sets/hmcts-management-information-reformed-services-october-2024",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "HMCTS management information \u2013 modernised services September 2023",
+      "public_timestamp": "2024-10-10T08:30:00Z",
+      "description": "The management information used by HMCTS to measure the progress of services modernised under the Reform Programme.",
+      "link": "/government/statistical-data-sets/hmcts-management-information-reformed-services-september-2023",
+      "index": "govuk",
+      "es_score": 0.021748943,
+      "_id": "/government/statistical-data-sets/hmcts-management-information-reformed-services-september-2023",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Immigration system statistics data tables",
+      "public_timestamp": "2026-02-26T09:30:09Z",
+      "description": "Listing of the data tables included in 'Immigration system statistics'.",
+      "link": "/government/statistical-data-sets/immigration-system-statistics-data-tables",
+      "index": "govuk",
+      "es_score": 0.020228632,
+      "_id": "/government/statistical-data-sets/immigration-system-statistics-data-tables",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Ad-hoc statistical analysis: 2020/21 Quarter 2",
+      "public_timestamp": "2020-09-11T10:00:00Z",
+      "description": "A list of additional ad-hoc analyses not included in any of our standard publications.",
+      "link": "/government/statistical-data-sets/ad-hoc-statistical-analysis-202021-quarter-2",
+      "index": "govuk",
+      "es_score": 0.018163176,
+      "_id": "/government/statistical-data-sets/ad-hoc-statistical-analysis-202021-quarter-2",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "DCMS Economic Estimates: Ad-hoc statistical releases",
+      "public_timestamp": "2023-03-29T12:10:06Z",
+      "description": "This page lists links to ad hoc statistical analyses on Economic Estimates that have not been included in our standard publications. ",
+      "link": "/government/statistical-data-sets/dcms-economic-estimates-ad-hoc-statistical-releases",
+      "index": "govuk",
+      "es_score": 0.018106323,
+      "_id": "/government/statistical-data-sets/dcms-economic-estimates-ad-hoc-statistical-releases",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Ad-hoc statistical analysis: 2020/21 Quarter 1",
+      "public_timestamp": "2020-06-10T08:30:09Z",
+      "description": "A list of additional ad-hoc analyses not included in any of our standard publications.",
+      "link": "/government/statistical-data-sets/ad-hoc-statistical-analysis-202021-quarter-1",
+      "index": "govuk",
+      "es_score": 0.017502148,
+      "_id": "/government/statistical-data-sets/ad-hoc-statistical-analysis-202021-quarter-1",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    }
+  ]
+}
