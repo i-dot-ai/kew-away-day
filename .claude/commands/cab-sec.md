@@ -1,6 +1,6 @@
 Build a simple Cabinet Secretary objectives dashboard as a single HTML file.
 
-Use the objectives data from `data/OBJECTIVES.md` as the data source. The dashboard should:
+Use the objectives data from `data/reference/OBJECTIVES.md` as the data source. The dashboard should:
 
 - Display all 5 objectives and their associated actions as a clean, readable page
 - Use the GOV.UK Design System colour palette and styling as described in CLAUDE.md
