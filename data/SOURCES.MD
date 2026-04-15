@@ -42,6 +42,14 @@ Curated from: https://github.com/i-dot-ai/awesome-gov-datasets
 
 ---
 
+## Departmental Performance (Illustrative)
+
+| File | Description | Source |
+|------|-------------|--------|
+| `department_performance.json` | Dummy RAG ratings and scores for 20 departments against all 5 Cabinet Secretary objectives | Illustrative data for Kew Away Day exercise — not real assessments |
+
+---
+
 ## How these map to Cabinet Secretary objectives
 
 - **Objective 1 (Delivery of Government priorities):** GDP growth, unemployment, inflation, public borrowing, efficiency papers
