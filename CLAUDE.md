@@ -120,11 +120,23 @@ it every time.
 ## Cabinet Secretary Dashboard Activity
 
 The `data/` folder contains reference material for the **Cabinet Secretary
-objectives dashboard** activity. In particular,
-`data/OBJECTIVES.md` contains the Cabinet Secretary and Head of the Civil
-Service's objectives and actions for 2026–2027. When the user asks to build a
-dashboard or anything related to the Cabinet Secretary's objectives, use the
-content in that file as the data source.
+objectives dashboard** activity:
+
+- `data/OBJECTIVES.md` — the Cabinet Secretary's 5 objectives and actions for
+  2026–2027. Use this as the data source for the starting dashboard.
+- `data/department_performance.json` — **dummy performance data** for 20
+  departments, showing how each is performing against each of the 5 objectives.
+  Includes RAG ratings (Red/Amber-Red/Amber/Amber-Green/Green), scores,
+  summaries, AI adoption percentages, efficiency savings, and People Survey
+  engagement scores. This is illustrative data for the exercise, not real.
+- `data/DEPARTMENTS.MD` — list of ministerial departments.
+
+The activity is designed to be iterative. The `/cab-sec` command generates a
+**basic starting dashboard** (just objectives as a styled list). The user then
+improves it through follow-up prompts — for example asking to add departmental
+breakdowns, RAG ratings, charts, interactivity, and so on. The departmental
+performance data is there for when they want to drill into how individual
+departments are doing.
 
 ## Using real data and APIs
 
