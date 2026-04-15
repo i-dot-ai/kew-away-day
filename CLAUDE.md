@@ -122,14 +122,22 @@ it every time.
 The `data/` folder contains reference material for the **Cabinet Secretary
 objectives dashboard** activity:
 
-- `data/OBJECTIVES.md` — the Cabinet Secretary's 5 objectives and actions for
-  2026–2027. Use this as the data source for the starting dashboard.
-- `data/department_performance.json` — **dummy performance data** for 20
-  departments, showing how each is performing against each of the 5 objectives.
-  Includes RAG ratings (Red/Amber-Red/Amber/Amber-Green/Green), scores,
-  summaries, AI adoption percentages, efficiency savings, and People Survey
-  engagement scores. This is illustrative data for the exercise, not real.
-- `data/DEPARTMENTS.MD` — list of ministerial departments.
+- `data/reference/OBJECTIVES.md` — the Cabinet Secretary's 5 objectives and
+  actions for 2026–2027. Use this as the data source for the starting dashboard.
+- `data/synthetic/department_performance.json` — **synthetic performance data**
+  for 20 departments, showing how each is performing against each of the 5
+  objectives. Includes RAG ratings (Red/Amber-Red/Amber/Amber-Green/Green),
+  scores, summaries, AI adoption percentages, efficiency savings, and People
+  Survey engagement scores. This is synthetic data for the exercise, not real.
+- `data/reference/DEPARTMENTS.MD` — list of ministerial departments.
+
+The `data/` folder is organised into subfolders:
+- **`reference/`** — briefing documents (objectives, departments list)
+- **`ons/`** — real statistics from the Office for National Statistics
+- **`govuk/`** — documents from GOV.UK (speeches, policy papers, surveys, stats)
+- **`hansard/`** — parliamentary debate data
+- **`police/`** — police open data
+- **`synthetic/`** — synthetic performance data for the dashboard exercise
 
 The activity is designed to be iterative. The `/cab-sec` command generates a
 **basic starting dashboard** (just objectives as a styled list). The user then

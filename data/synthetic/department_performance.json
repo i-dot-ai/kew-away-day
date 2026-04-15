@@ -1,0 +1,851 @@
+{
+  "title": "Departmental Performance Against Cabinet Secretary Objectives 2026-2027",
+  "source": "Illustrative data for Kew Away Day exercise",
+  "note": "This is dummy data for demonstration purposes only. It does not represent real performance assessments.",
+  "rating_scale": {
+    "Green": "On track — strong delivery against this objective",
+    "Amber-Green": "Mostly on track — minor issues being managed",
+    "Amber": "Some concerns — requires attention",
+    "Amber-Red": "Significant concerns — action needed",
+    "Red": "Serious issues — urgent intervention required"
+  },
+  "last_updated": "2026-04-15",
+  "departments": [
+    {
+      "abbr": "CO",
+      "name": "Cabinet Office",
+      "headcount": 9850,
+      "budget_billions": 5.8,
+      "permanent_secretary": "Cat Little",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Green",
+          "score": 88,
+          "summary": "Strong coordination of PM priorities across Whitehall. New delivery tracking system operational.",
+          "ai_adoption_pct": 42,
+          "efficiency_savings_millions": 310
+        },
+        "2_policy_advice": {
+          "rating": "Green",
+          "score": 91,
+          "summary": "High-quality briefings and policy options consistently delivered. Propriety advice timely.",
+          "ai_adoption_pct": 42,
+          "efficiency_savings_millions": 310
+        },
+        "3_cabinet_government": {
+          "rating": "Amber-Green",
+          "score": 79,
+          "summary": "Cabinet Committee programme running well. Cabinet Manual refresh in progress but behind schedule.",
+          "ai_adoption_pct": 42,
+          "efficiency_savings_millions": 310
+        },
+        "4_cs_reform": {
+          "rating": "Amber-Green",
+          "score": 76,
+          "summary": "Leading cross-government reform programme. AI adoption ahead of target. SCS talent framework being piloted.",
+          "ai_adoption_pct": 42,
+          "efficiency_savings_millions": 310
+        },
+        "5_culture": {
+          "rating": "Green",
+          "score": 85,
+          "summary": "People Survey engagement score improved 3 points. Civil Service Code refresh consultation launched.",
+          "people_survey_engagement": 68,
+          "people_survey_change": 3
+        }
+      }
+    },
+    {
+      "abbr": "HMT",
+      "name": "HM Treasury",
+      "headcount": 2420,
+      "budget_billions": 0.3,
+      "permanent_secretary": "James Bowler",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Green",
+          "score": 90,
+          "summary": "Spending Review 2025 delivered on time. Fiscal rules framework embedded. Growth agenda well supported.",
+          "ai_adoption_pct": 38,
+          "efficiency_savings_millions": 45
+        },
+        "2_policy_advice": {
+          "rating": "Green",
+          "score": 93,
+          "summary": "Budget 2025 delivered with strong analytical base. International engagement effective.",
+          "ai_adoption_pct": 38,
+          "efficiency_savings_millions": 45
+        },
+        "3_cabinet_government": {
+          "rating": "Green",
+          "score": 86,
+          "summary": "Effective Treasury input to Cabinet committees. Collective agreement processes well managed.",
+          "ai_adoption_pct": 38,
+          "efficiency_savings_millions": 45
+        },
+        "4_cs_reform": {
+          "rating": "Amber-Green",
+          "score": 74,
+          "summary": "Efficiency delivery plans published. AI adoption progressing but below stretch target.",
+          "ai_adoption_pct": 38,
+          "efficiency_savings_millions": 45
+        },
+        "5_culture": {
+          "rating": "Amber-Green",
+          "score": 72,
+          "summary": "Engagement improving but retention of mid-career analysts remains a challenge.",
+          "people_survey_engagement": 64,
+          "people_survey_change": 1
+        }
+      }
+    },
+    {
+      "abbr": "HO",
+      "name": "Home Office",
+      "headcount": 37200,
+      "budget_billions": 19.6,
+      "permanent_secretary": "Gareth Davies",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Amber",
+          "score": 62,
+          "summary": "Asylum backlog reducing but still significant. Border security programme on track. Crime reduction targets mixed.",
+          "ai_adoption_pct": 22,
+          "efficiency_savings_millions": 420
+        },
+        "2_policy_advice": {
+          "rating": "Amber-Green",
+          "score": 71,
+          "summary": "Immigration policy advice responsive. Cross-cutting security advice well coordinated with NSA.",
+          "ai_adoption_pct": 22,
+          "efficiency_savings_millions": 420
+        },
+        "3_cabinet_government": {
+          "rating": "Amber-Green",
+          "score": 73,
+          "summary": "Active contributor to NSC and domestic committees. Some delays in collective write-rounds.",
+          "ai_adoption_pct": 22,
+          "efficiency_savings_millions": 420
+        },
+        "4_cs_reform": {
+          "rating": "Amber-Red",
+          "score": 52,
+          "summary": "Large legacy IT estate slowing AI adoption. Workforce plan drafted but implementation delayed. Admin savings behind target.",
+          "ai_adoption_pct": 22,
+          "efficiency_savings_millions": 420
+        },
+        "5_culture": {
+          "rating": "Amber",
+          "score": 58,
+          "summary": "People Survey scores below CS average. Staff wellbeing programme expanded. Leadership visibility improving.",
+          "people_survey_engagement": 54,
+          "people_survey_change": -1
+        }
+      }
+    },
+    {
+      "abbr": "DHSC",
+      "name": "Department of Health and Social Care",
+      "headcount": 3180,
+      "budget_billions": 192.0,
+      "permanent_secretary": "Samantha Jones",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Amber",
+          "score": 60,
+          "summary": "NHS waiting list reduction on trajectory but fragile. Social care reform progressing. Neighbourhood health framework published.",
+          "ai_adoption_pct": 28,
+          "efficiency_savings_millions": 890
+        },
+        "2_policy_advice": {
+          "rating": "Amber-Green",
+          "score": 75,
+          "summary": "Strong analytical capability. Ten-year health plan evidence base well developed.",
+          "ai_adoption_pct": 28,
+          "efficiency_savings_millions": 890
+        },
+        "3_cabinet_government": {
+          "rating": "Amber-Green",
+          "score": 74,
+          "summary": "Good engagement with social policy committees. Some tension on spending allocation timelines.",
+          "ai_adoption_pct": 28,
+          "efficiency_savings_millions": 890
+        },
+        "4_cs_reform": {
+          "rating": "Amber",
+          "score": 63,
+          "summary": "AI in clinical pathways showing promise. Admin spend reduction on track. Workforce plan needs acceleration.",
+          "ai_adoption_pct": 28,
+          "efficiency_savings_millions": 890
+        },
+        "5_culture": {
+          "rating": "Amber-Green",
+          "score": 70,
+          "summary": "Engagement score stable. Innovation culture improving through health tech partnerships.",
+          "people_survey_engagement": 62,
+          "people_survey_change": 0
+        }
+      }
+    },
+    {
+      "abbr": "DfE",
+      "name": "Department for Education",
+      "headcount": 7650,
+      "budget_billions": 105.3,
+      "permanent_secretary": "Susan Acland-Hood",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Amber-Green",
+          "score": 74,
+          "summary": "Curriculum reform on track. Childcare expansion progressing. School attendance improving but below target.",
+          "ai_adoption_pct": 31,
+          "efficiency_savings_millions": 280
+        },
+        "2_policy_advice": {
+          "rating": "Green",
+          "score": 82,
+          "summary": "Strong evidence-based policy development. Skills agenda well articulated across government.",
+          "ai_adoption_pct": 31,
+          "efficiency_savings_millions": 280
+        },
+        "3_cabinet_government": {
+          "rating": "Green",
+          "score": 80,
+          "summary": "Effective cross-Whitehall working on skills and opportunity agendas.",
+          "ai_adoption_pct": 31,
+          "efficiency_savings_millions": 280
+        },
+        "4_cs_reform": {
+          "rating": "Amber-Green",
+          "score": 73,
+          "summary": "Good progress on AI in grants management. Apprenticeship strategy being refreshed internally.",
+          "ai_adoption_pct": 31,
+          "efficiency_savings_millions": 280
+        },
+        "5_culture": {
+          "rating": "Green",
+          "score": 83,
+          "summary": "High engagement department. Strong internal innovation culture. Diversity targets on track.",
+          "people_survey_engagement": 69,
+          "people_survey_change": 2
+        }
+      }
+    },
+    {
+      "abbr": "DSIT",
+      "name": "Department for Science, Innovation and Technology",
+      "headcount": 3950,
+      "budget_billions": 14.2,
+      "permanent_secretary": "Emran Mian",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Green",
+          "score": 84,
+          "summary": "AI Safety Institute fully operational. R&D investment pipeline strong. Tech sector engagement excellent.",
+          "ai_adoption_pct": 58,
+          "efficiency_savings_millions": 95
+        },
+        "2_policy_advice": {
+          "rating": "Green",
+          "score": 89,
+          "summary": "Leading cross-government AI policy. International tech diplomacy highly effective.",
+          "ai_adoption_pct": 58,
+          "efficiency_savings_millions": 95
+        },
+        "3_cabinet_government": {
+          "rating": "Green",
+          "score": 82,
+          "summary": "Strong input to economic and science committees. Good interdepartmental coordination on digital.",
+          "ai_adoption_pct": 58,
+          "efficiency_savings_millions": 95
+        },
+        "4_cs_reform": {
+          "rating": "Green",
+          "score": 87,
+          "summary": "Highest AI adoption rate in Whitehall. Leading by example on digital transformation. Efficiency targets exceeded.",
+          "ai_adoption_pct": 58,
+          "efficiency_savings_millions": 95
+        },
+        "5_culture": {
+          "rating": "Green",
+          "score": 86,
+          "summary": "Consistently high engagement. Strong innovation culture. Attracting top STEM talent.",
+          "people_survey_engagement": 72,
+          "people_survey_change": 4
+        }
+      }
+    },
+    {
+      "abbr": "DBT",
+      "name": "Department for Business and Trade",
+      "headcount": 4820,
+      "budget_billions": 1.9,
+      "permanent_secretary": "Gareth Davies",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Amber-Green",
+          "score": 75,
+          "summary": "Trade deal pipeline progressing. Industrial strategy published. Investment zones showing early results.",
+          "ai_adoption_pct": 33,
+          "efficiency_savings_millions": 65
+        },
+        "2_policy_advice": {
+          "rating": "Green",
+          "score": 81,
+          "summary": "Pro-growth advice well received. Business engagement framework effective.",
+          "ai_adoption_pct": 33,
+          "efficiency_savings_millions": 65
+        },
+        "3_cabinet_government": {
+          "rating": "Amber-Green",
+          "score": 76,
+          "summary": "Good engagement on economic committees. Trade negotiations well coordinated with FCDO.",
+          "ai_adoption_pct": 33,
+          "efficiency_savings_millions": 65
+        },
+        "4_cs_reform": {
+          "rating": "Amber-Green",
+          "score": 71,
+          "summary": "AI adoption in trade analysis growing. Merger of legacy BIS/DIT systems ongoing.",
+          "ai_adoption_pct": 33,
+          "efficiency_savings_millions": 65
+        },
+        "5_culture": {
+          "rating": "Amber-Green",
+          "score": 73,
+          "summary": "Post-merger culture embedding well. Overseas network morale improving.",
+          "people_survey_engagement": 63,
+          "people_survey_change": 2
+        }
+      }
+    },
+    {
+      "abbr": "DEFRA",
+      "name": "Department for Environment, Food and Rural Affairs",
+      "headcount": 6200,
+      "budget_billions": 7.1,
+      "permanent_secretary": "Paul Kissack",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Amber",
+          "score": 65,
+          "summary": "Environmental Land Management scheme scaling. Water quality targets behind. Flood resilience investment on track.",
+          "ai_adoption_pct": 24,
+          "efficiency_savings_millions": 130
+        },
+        "2_policy_advice": {
+          "rating": "Amber-Green",
+          "score": 74,
+          "summary": "Strong science base. Food security advice well integrated with wider agenda.",
+          "ai_adoption_pct": 24,
+          "efficiency_savings_millions": 130
+        },
+        "3_cabinet_government": {
+          "rating": "Amber-Green",
+          "score": 72,
+          "summary": "Active on climate and rural committees. Some delays on cross-departmental water strategy.",
+          "ai_adoption_pct": 24,
+          "efficiency_savings_millions": 130
+        },
+        "4_cs_reform": {
+          "rating": "Amber",
+          "score": 60,
+          "summary": "AI adoption below target due to specialist workforce needs. Digital transformation of farming payments progressing.",
+          "ai_adoption_pct": 24,
+          "efficiency_savings_millions": 130
+        },
+        "5_culture": {
+          "rating": "Amber-Green",
+          "score": 71,
+          "summary": "Good engagement among policy staff. Field force morale stable. Innovation pilots in satellite monitoring.",
+          "people_survey_engagement": 61,
+          "people_survey_change": 1
+        }
+      }
+    },
+    {
+      "abbr": "MoD",
+      "name": "Ministry of Defence",
+      "headcount": 62300,
+      "budget_billions": 78.5,
+      "permanent_secretary": "Jeremy Pocklington",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Amber",
+          "score": 64,
+          "summary": "Defence spending increase committed. Equipment plan pressures remain. AUKUS programme on track.",
+          "ai_adoption_pct": 26,
+          "efficiency_savings_millions": 1200
+        },
+        "2_policy_advice": {
+          "rating": "Amber-Green",
+          "score": 77,
+          "summary": "SDR implementation advice strong. Integrated review well coordinated with NSA.",
+          "ai_adoption_pct": 26,
+          "efficiency_savings_millions": 1200
+        },
+        "3_cabinet_government": {
+          "rating": "Green",
+          "score": 82,
+          "summary": "Excellent NSC engagement. Crisis response capability well maintained.",
+          "ai_adoption_pct": 26,
+          "efficiency_savings_millions": 1200
+        },
+        "4_cs_reform": {
+          "rating": "Amber-Red",
+          "score": 51,
+          "summary": "Legacy systems constraining digital transformation. AI adoption in logistics showing potential but slow rollout.",
+          "ai_adoption_pct": 26,
+          "efficiency_savings_millions": 1200
+        },
+        "5_culture": {
+          "rating": "Amber",
+          "score": 59,
+          "summary": "Civilian-military culture integration ongoing. Engagement scores below CS average but improving.",
+          "people_survey_engagement": 55,
+          "people_survey_change": 2
+        }
+      }
+    },
+    {
+      "abbr": "FCDO",
+      "name": "Foreign, Commonwealth and Development Office",
+      "headcount": 17800,
+      "budget_billions": 15.3,
+      "permanent_secretary": "Sir Olly Robbins",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Amber-Green",
+          "score": 76,
+          "summary": "International partnerships agenda strong. Development programme realignment underway.",
+          "ai_adoption_pct": 29,
+          "efficiency_savings_millions": 340
+        },
+        "2_policy_advice": {
+          "rating": "Green",
+          "score": 88,
+          "summary": "Excellent geopolitical analysis. PM well briefed on international issues.",
+          "ai_adoption_pct": 29,
+          "efficiency_savings_millions": 340
+        },
+        "3_cabinet_government": {
+          "rating": "Green",
+          "score": 85,
+          "summary": "NSC and international committees well served. Summit preparation consistently strong.",
+          "ai_adoption_pct": 29,
+          "efficiency_savings_millions": 340
+        },
+        "4_cs_reform": {
+          "rating": "Amber",
+          "score": 61,
+          "summary": "Global IT estate modernisation complex. AI translation tools deployed. Admin savings on track.",
+          "ai_adoption_pct": 29,
+          "efficiency_savings_millions": 340
+        },
+        "5_culture": {
+          "rating": "Amber-Green",
+          "score": 70,
+          "summary": "Merger culture bedding in well. Overseas posting morale improved after pay review.",
+          "people_survey_engagement": 60,
+          "people_survey_change": 3
+        }
+      }
+    },
+    {
+      "abbr": "DWP",
+      "name": "Department for Work and Pensions",
+      "headcount": 88400,
+      "budget_billions": 282.0,
+      "permanent_secretary": "Sir Peter Schofield",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Amber-Green",
+          "score": 73,
+          "summary": "Universal Credit migration on track. Employment support programmes expanding. Disability benefits reform underway.",
+          "ai_adoption_pct": 35,
+          "efficiency_savings_millions": 680
+        },
+        "2_policy_advice": {
+          "rating": "Amber-Green",
+          "score": 75,
+          "summary": "Labour market analysis strong. Health and disability policy advice improving.",
+          "ai_adoption_pct": 35,
+          "efficiency_savings_millions": 680
+        },
+        "3_cabinet_government": {
+          "rating": "Amber-Green",
+          "score": 74,
+          "summary": "Social policy committees well served. Good cross-government work on employment.",
+          "ai_adoption_pct": 35,
+          "efficiency_savings_millions": 680
+        },
+        "4_cs_reform": {
+          "rating": "Amber-Green",
+          "score": 72,
+          "summary": "AI fraud detection saving significant sums. Large operational workforce makes transformation complex but progressing.",
+          "ai_adoption_pct": 35,
+          "efficiency_savings_millions": 680
+        },
+        "5_culture": {
+          "rating": "Amber",
+          "score": 61,
+          "summary": "Largest department faces engagement challenges. Frontline staff satisfaction programme launched.",
+          "people_survey_engagement": 56,
+          "people_survey_change": 0
+        }
+      }
+    },
+    {
+      "abbr": "HMRC",
+      "name": "HM Revenue and Customs",
+      "headcount": 66200,
+      "budget_billions": 5.4,
+      "permanent_secretary": "John-Paul Marks",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Amber-Green",
+          "score": 77,
+          "summary": "Tax gap narrowing. Digital tax accounts expanding. Customer service improving after difficult period.",
+          "ai_adoption_pct": 40,
+          "efficiency_savings_millions": 520
+        },
+        "2_policy_advice": {
+          "rating": "Green",
+          "score": 83,
+          "summary": "Tax policy advice high quality. Strong analytical base for fiscal events.",
+          "ai_adoption_pct": 40,
+          "efficiency_savings_millions": 520
+        },
+        "3_cabinet_government": {
+          "rating": "Green",
+          "score": 80,
+          "summary": "Effective partnership with HMT on fiscal policy. Good committee engagement.",
+          "ai_adoption_pct": 40,
+          "efficiency_savings_millions": 520
+        },
+        "4_cs_reform": {
+          "rating": "Amber-Green",
+          "score": 75,
+          "summary": "Strong digital transformation track record. AI in compliance checking proving effective.",
+          "ai_adoption_pct": 40,
+          "efficiency_savings_millions": 520
+        },
+        "5_culture": {
+          "rating": "Amber",
+          "score": 62,
+          "summary": "Large operational workforce. Regional office consolidation causing uncertainty. New Ways of Working programme launched.",
+          "people_survey_engagement": 57,
+          "people_survey_change": -2
+        }
+      }
+    },
+    {
+      "abbr": "MoJ",
+      "name": "Ministry of Justice",
+      "headcount": 86500,
+      "budget_billions": 12.8,
+      "permanent_secretary": "Jo Farrar",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Amber",
+          "score": 63,
+          "summary": "Prison capacity programme expanding. Court backlog reducing but slowly. Probation reforms embedding.",
+          "ai_adoption_pct": 25,
+          "efficiency_savings_millions": 290
+        },
+        "2_policy_advice": {
+          "rating": "Amber-Green",
+          "score": 76,
+          "summary": "Sentencing review well managed. Justice system reform advice drawing on international comparisons.",
+          "ai_adoption_pct": 25,
+          "efficiency_savings_millions": 290
+        },
+        "3_cabinet_government": {
+          "rating": "Amber-Green",
+          "score": 73,
+          "summary": "Good engagement on home affairs and justice committees. Constitution and rule of law advice valued.",
+          "ai_adoption_pct": 25,
+          "efficiency_savings_millions": 290
+        },
+        "4_cs_reform": {
+          "rating": "Amber",
+          "score": 58,
+          "summary": "HMCTS digital modernisation continuing. AI adoption limited by security requirements in prisons estate.",
+          "ai_adoption_pct": 25,
+          "efficiency_savings_millions": 290
+        },
+        "5_culture": {
+          "rating": "Amber",
+          "score": 60,
+          "summary": "Frontline prison and probation staff engagement challenging. HQ innovation culture strengthening.",
+          "people_survey_engagement": 53,
+          "people_survey_change": 1
+        }
+      }
+    },
+    {
+      "abbr": "DfT",
+      "name": "Department for Transport",
+      "headcount": 4150,
+      "budget_billions": 32.1,
+      "permanent_secretary": "Jo Shanmugalingam",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Amber-Green",
+          "score": 72,
+          "summary": "Major road and rail investment on track. Bus franchising expanding. Decarbonisation targets being pursued.",
+          "ai_adoption_pct": 27,
+          "efficiency_savings_millions": 180
+        },
+        "2_policy_advice": {
+          "rating": "Amber-Green",
+          "score": 76,
+          "summary": "Growth-focused transport investment advice well received. Good regional connectivity analysis.",
+          "ai_adoption_pct": 27,
+          "efficiency_savings_millions": 180
+        },
+        "3_cabinet_government": {
+          "rating": "Amber-Green",
+          "score": 74,
+          "summary": "Effective on economic and infrastructure committees. HS2 lessons learned process underway.",
+          "ai_adoption_pct": 27,
+          "efficiency_savings_millions": 180
+        },
+        "4_cs_reform": {
+          "rating": "Amber",
+          "score": 64,
+          "summary": "AI adoption in network planning growing. Arm's length body reform complex but progressing.",
+          "ai_adoption_pct": 27,
+          "efficiency_savings_millions": 180
+        },
+        "5_culture": {
+          "rating": "Amber-Green",
+          "score": 73,
+          "summary": "Good HQ engagement. ALB culture integration an ongoing focus.",
+          "people_survey_engagement": 63,
+          "people_survey_change": 1
+        }
+      }
+    },
+    {
+      "abbr": "DESNZ",
+      "name": "Department for Energy Security and Net Zero",
+      "headcount": 3600,
+      "budget_billions": 22.4,
+      "permanent_secretary": "Jonathan Brearley",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Amber-Green",
+          "score": 76,
+          "summary": "GB Energy operational. Clean power 2030 target ambitious but plan published. Warm Homes Plan launched.",
+          "ai_adoption_pct": 34,
+          "efficiency_savings_millions": 75
+        },
+        "2_policy_advice": {
+          "rating": "Green",
+          "score": 84,
+          "summary": "Strong analytical base for energy transition. International climate engagement effective.",
+          "ai_adoption_pct": 34,
+          "efficiency_savings_millions": 75
+        },
+        "3_cabinet_government": {
+          "rating": "Amber-Green",
+          "score": 77,
+          "summary": "Good engagement on climate and energy committees. Cross-government net zero coordination improving.",
+          "ai_adoption_pct": 34,
+          "efficiency_savings_millions": 75
+        },
+        "4_cs_reform": {
+          "rating": "Amber-Green",
+          "score": 74,
+          "summary": "New department still building systems. AI adoption in grid modelling advanced.",
+          "ai_adoption_pct": 34,
+          "efficiency_savings_millions": 75
+        },
+        "5_culture": {
+          "rating": "Green",
+          "score": 80,
+          "summary": "Mission-driven culture strong. High engagement as a newer department with clear purpose.",
+          "people_survey_engagement": 67,
+          "people_survey_change": 3
+        }
+      }
+    },
+    {
+      "abbr": "MHCLG",
+      "name": "Ministry of Housing, Communities and Local Government",
+      "headcount": 4250,
+      "budget_billions": 11.9,
+      "permanent_secretary": "Dame Sarah Healey",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Amber",
+          "score": 64,
+          "summary": "Housing targets ambitious. Planning reform progressing. Building safety regime implemented. Local growth partnerships expanding.",
+          "ai_adoption_pct": 26,
+          "efficiency_savings_millions": 110
+        },
+        "2_policy_advice": {
+          "rating": "Amber-Green",
+          "score": 74,
+          "summary": "Devolution and local growth advice well developed. Housing market analysis strong.",
+          "ai_adoption_pct": 26,
+          "efficiency_savings_millions": 110
+        },
+        "3_cabinet_government": {
+          "rating": "Amber-Green",
+          "score": 73,
+          "summary": "Effective on domestic committees. Central-local relations advice valued.",
+          "ai_adoption_pct": 26,
+          "efficiency_savings_millions": 110
+        },
+        "4_cs_reform": {
+          "rating": "Amber",
+          "score": 62,
+          "summary": "Digital planning tools in development. AI adoption moderate. Admin savings on track.",
+          "ai_adoption_pct": 26,
+          "efficiency_savings_millions": 110
+        },
+        "5_culture": {
+          "rating": "Amber-Green",
+          "score": 71,
+          "summary": "Stable engagement. Good regional office presence. Innovation in data-driven local government support.",
+          "people_survey_engagement": 62,
+          "people_survey_change": 0
+        }
+      }
+    },
+    {
+      "abbr": "DCMS",
+      "name": "Department for Culture, Media and Sport",
+      "headcount": 1850,
+      "budget_billions": 2.1,
+      "permanent_secretary": "Susannah Storey",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Amber-Green",
+          "score": 75,
+          "summary": "Creative industries growth plan delivering. Sport and physical activity strategy on track.",
+          "ai_adoption_pct": 30,
+          "efficiency_savings_millions": 25
+        },
+        "2_policy_advice": {
+          "rating": "Green",
+          "score": 80,
+          "summary": "Strong creative economy analysis. Cultural diplomacy advice well received.",
+          "ai_adoption_pct": 30,
+          "efficiency_savings_millions": 25
+        },
+        "3_cabinet_government": {
+          "rating": "Amber-Green",
+          "score": 74,
+          "summary": "Good committee engagement on digital and cultural policy.",
+          "ai_adoption_pct": 30,
+          "efficiency_savings_millions": 25
+        },
+        "4_cs_reform": {
+          "rating": "Amber-Green",
+          "score": 72,
+          "summary": "Small agile department. Digital-first approach embedded. AI used in grants assessment.",
+          "ai_adoption_pct": 30,
+          "efficiency_savings_millions": 25
+        },
+        "5_culture": {
+          "rating": "Green",
+          "score": 82,
+          "summary": "Small department with strong team culture. High engagement and low attrition.",
+          "people_survey_engagement": 70,
+          "people_survey_change": 2
+        }
+      }
+    },
+    {
+      "abbr": "NIO",
+      "name": "Northern Ireland Office",
+      "headcount": 180,
+      "budget_billions": 0.03,
+      "permanent_secretary": "Julie Harrison",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Green",
+          "score": 81,
+          "summary": "Stormont institutions supported effectively. Legacy Act implementation progressing.",
+          "ai_adoption_pct": 18,
+          "efficiency_savings_millions": 2
+        },
+        "2_policy_advice": {
+          "rating": "Green",
+          "score": 85,
+          "summary": "NI political landscape advice timely and well-judged. Constitutional advice strong.",
+          "ai_adoption_pct": 18,
+          "efficiency_savings_millions": 2
+        },
+        "3_cabinet_government": {
+          "rating": "Green",
+          "score": 84,
+          "summary": "NI perspective well represented in Cabinet discussions.",
+          "ai_adoption_pct": 18,
+          "efficiency_savings_millions": 2
+        },
+        "4_cs_reform": {
+          "rating": "Amber-Green",
+          "score": 68,
+          "summary": "Small department — reform agenda proportionate. Shared services model working well.",
+          "ai_adoption_pct": 18,
+          "efficiency_savings_millions": 2
+        },
+        "5_culture": {
+          "rating": "Green",
+          "score": 84,
+          "summary": "Small, cohesive team with strong purpose. Excellent engagement scores.",
+          "people_survey_engagement": 74,
+          "people_survey_change": 1
+        }
+      }
+    },
+    {
+      "abbr": "GLD",
+      "name": "Government Legal Department",
+      "headcount": 3100,
+      "budget_billions": 0.3,
+      "permanent_secretary": "Susanna McGibbon",
+      "objectives": {
+        "1_delivery": {
+          "rating": "Green",
+          "score": 83,
+          "summary": "Legal advice turnaround times improved. Litigation outcomes strong.",
+          "ai_adoption_pct": 36,
+          "efficiency_savings_millions": 15
+        },
+        "2_policy_advice": {
+          "rating": "Green",
+          "score": 88,
+          "summary": "High-quality legal advice across government. Vires and propriety advice consistently strong.",
+          "ai_adoption_pct": 36,
+          "efficiency_savings_millions": 15
+        },
+        "3_cabinet_government": {
+          "rating": "Green",
+          "score": 85,
+          "summary": "Legal quality assurance of Cabinet papers effective. Constitutional advice valued.",
+          "ai_adoption_pct": 36,
+          "efficiency_savings_millions": 15
+        },
+        "4_cs_reform": {
+          "rating": "Amber-Green",
+          "score": 74,
+          "summary": "AI-assisted legal research tools deployed. Efficiency gains through technology.",
+          "ai_adoption_pct": 36,
+          "efficiency_savings_millions": 15
+        },
+        "5_culture": {
+          "rating": "Green",
+          "score": 81,
+          "summary": "Professional culture with strong identity. Good retention of legal talent.",
+          "people_survey_engagement": 68,
+          "people_survey_change": 1
+        }
+      }
+    }
+  ]
+}
