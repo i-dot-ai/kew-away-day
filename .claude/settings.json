@@ -11,7 +11,8 @@
       "Grep",
       "Bash",
       "WebFetch",
-      "WebSearch"
+      "WebSearch",
+      "mcp__parliament"
     ],
     "deny": [
       "Bash(rm -rf /)",
