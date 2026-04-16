@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "parliament": {
+      "type": "http",
+      "url": "https://parliament-mcp-backend-external-preprod.ai.cabinetoffice.gov.uk/mcp",
+      "headers": {
+        "x-external-access-token": "perm_sec_eEdYqOkDxvalkrLo68b7LH0X7P08KASU"
+      }
+    }
+  }
+}
