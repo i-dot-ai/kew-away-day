@@ -2,7 +2,7 @@
 
 ## First thing to do
 
-**At the start of every conversation, run `git pull`** to make sure you have the
+**At the start of every conversation, run `git pull main`** to make sure you have the
 latest project files and instructions. Let the user know you're doing this —
 e.g. *"Just grabbing the latest updates before we start."*
 
@@ -93,6 +93,7 @@ generating dynamic content.
 - When the app is running, tell the user they can stop it by pressing **Ctrl+C**
   in the terminal.
 
+
 ## Style and brand
 
 - Use the **GOV.UK Design System** colour palette where appropriate:
@@ -115,6 +116,35 @@ outline what you're going to do before you do it — like a colleague talking
 through their approach before diving in. They can press **Shift+Tab** again to
 switch back to normal mode. Only mention this once, early on — no need to repeat
 it every time.
+
+## Cabinet Secretary Dashboard Activity
+
+The `data/` folder contains reference material for the **Cabinet Secretary
+objectives dashboard** activity:
+
+- `data/reference/OBJECTIVES.md` — the Cabinet Secretary's 5 objectives and
+  actions for 2026–2027. Use this as the data source for the starting dashboard.
+- `data/synthetic/department_performance.json` — **synthetic performance data**
+  for 20 departments, showing how each is performing against each of the 5
+  objectives. Includes RAG ratings (Red/Amber-Red/Amber/Amber-Green/Green),
+  scores, summaries, AI adoption percentages, efficiency savings, and People
+  Survey engagement scores. This is synthetic data for the exercise, not real.
+- `data/reference/DEPARTMENTS.MD` — list of ministerial departments.
+
+The `data/` folder is organised into subfolders:
+- **`reference/`** — briefing documents (objectives, departments list)
+- **`ons/`** — real statistics from the Office for National Statistics
+- **`govuk/`** — documents from GOV.UK (speeches, policy papers, surveys, stats)
+- **`hansard/`** — parliamentary debate data
+- **`police/`** — police open data
+- **`synthetic/`** — synthetic performance data for the dashboard exercise
+
+The activity is designed to be iterative. The `/cab-sec` command generates a
+**basic starting dashboard** (just objectives as a styled list). The user then
+improves it through follow-up prompts — for example asking to add departmental
+breakdowns, RAG ratings, charts, interactivity, and so on. The departmental
+performance data is there for when they want to drill into how individual
+departments are doing.
 
 ## Using real data and APIs
 

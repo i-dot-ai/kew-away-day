@@ -1,0 +1,172 @@
+{
+  "title": "Recent GOV.UK Speeches on AI in Government",
+  "source": "GOV.UK Content API",
+  "count": 15,
+  "data": [
+    {
+      "title": "Commander Strategic Command, General Sir Patrick Sanders\u2019 Speech at the Air and Space Power Conference",
+      "public_timestamp": "2020-07-15T15:00:00Z",
+      "description": "General Sir Patrick Sanders discussed multi-domain integration at this year\u2019s Air and Space Power Conference",
+      "link": "/government/speeches/commander-strategic-command-general-sir-patrick-sanders-speech-at-the-air-and-space-power-conference",
+      "index": "govuk",
+      "es_score": 0.03110922,
+      "_id": "/government/speeches/commander-strategic-command-general-sir-patrick-sanders-speech-at-the-air-and-space-power-conference",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Minister Feryal Clark speech at the Alan Turing Institute\u2019s conference AI UK",
+      "public_timestamp": "2025-03-27T14:54:00Z",
+      "description": "Parliamentary Under-Secretary of State for AI and Digital Government, Feryal Clark, gave a speech at the Alan Turing Institute\u2019s conference AI UK on 17 March 2025.",
+      "link": "/government/speeches/minister-feryal-clark-speech-at-the-alan-turing-institutes-conference-ai-uk",
+      "index": "govuk",
+      "es_score": 0.028465834,
+      "_id": "/government/speeches/minister-feryal-clark-speech-at-the-alan-turing-institutes-conference-ai-uk",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "UK Co-Sponsored Conference on Holocaust Distortion and Education in Bucharest: Lord Pickles Speech",
+      "public_timestamp": "2024-11-18T10:41:01Z",
+      "description": "International Holocaust Remembrance Alliance Chair Lord Pickles addressed the challenges posed to Holocaust memory by generative AI and other emerging technologies. \r\n\r\n",
+      "link": "/government/speeches/uk-co-sponsored-conference-on-holocaust-distortion-and-education-in-bucharest-lord-pickles-speech",
+      "index": "govuk",
+      "es_score": 0.027987126,
+      "_id": "/government/speeches/uk-co-sponsored-conference-on-holocaust-distortion-and-education-in-bucharest-lord-pickles-speech",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "General Sir Jim Hockenhull\u2019s DSEI 2025 Keynote Speech",
+      "public_timestamp": "2025-09-08T23:00:00Z",
+      "description": "General Sir Jim Hockenhull, Commander of Cyber & Specialist Operations Command, delivered his keynote speech at Defence and Security Equipment International (DSEI) 2025.",
+      "link": "/government/speeches/general-sir-jim-hockenhulls-dsei-2025-keynote-speech",
+      "index": "govuk",
+      "es_score": 0.027327236,
+      "_id": "/government/speeches/general-sir-jim-hockenhulls-dsei-2025-keynote-speech",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Building partnerships to protect the UK from cyber crime",
+      "public_timestamp": "2024-10-30T11:17:52Z",
+      "description": "Security Minister, Dan Jarvis, delivered a speech at the PREDICT 2024 Conference on 22 October.",
+      "link": "/government/speeches/building-partnerships-to-protect-the-uk-from-cyber-crime",
+      "index": "govuk",
+      "es_score": 0.02699208,
+      "_id": "/government/speeches/building-partnerships-to-protect-the-uk-from-cyber-crime",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Speech by Sir Richard Moore, head of SIS, 19 July 2023",
+      "public_timestamp": "2023-07-19T10:03:55Z",
+      "description": "Sir Richard Moore, head of the Secret Intelligence Service, spoke about the current focus of the Service and the value of the \u201chuman factor\u201d in the age of AI.",
+      "link": "/government/speeches/speech-by-sir-richard-moore-head-of-sis-19-july-2023",
+      "index": "govuk",
+      "es_score": 0.026501525,
+      "_id": "/government/speeches/speech-by-sir-richard-moore-head-of-sis-19-july-2023",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Chief of the Defence Staff speech to CSIS",
+      "public_timestamp": "2025-08-13T23:00:00Z",
+      "description": "The Chief of Defence Staff Admiral Sir Tony Radakin gave a speech to the Centre for Strategic and International Studies in Washington ",
+      "link": "/government/speeches/chief-of-the-defence-staff-speech-to-csis",
+      "index": "govuk",
+      "es_score": 0.02585788,
+      "_id": "/government/speeches/chief-of-the-defence-staff-speech-to-csis",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "General Sir Jim Hockenhull, Strategic Command DSEI 2023 Keynote",
+      "public_timestamp": "2023-09-13T10:59:33Z",
+      "description": "General Sir Jim Hockenhull, Commander, Strategic Command, delivered his keynote speech at Defence and Security Equipment International (DSEI) 2023.",
+      "link": "/government/speeches/gen-jim-hockenhull-dsei-2023-keynote-sharpening-defences-edge",
+      "index": "govuk",
+      "es_score": 0.025332356,
+      "_id": "/government/speeches/gen-jim-hockenhull-dsei-2023-keynote-sharpening-defences-edge",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Cyber is a poster child for growth",
+      "public_timestamp": "2025-05-07T11:08:00Z",
+      "description": "The Chancellor of the Duchy of Lancaster spoke about the cyber threat landscape and how the government is using cyber to drive economic growth in a speech at CyberUK 2025 in Manchester.",
+      "link": "/government/speeches/cyber-is-a-poster-child-for-growth",
+      "index": "govuk",
+      "es_score": 0.024888081,
+      "_id": "/government/speeches/cyber-is-a-poster-child-for-growth",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Speech at DSEI by Deputy Chief of the General Staff",
+      "public_timestamp": "2025-09-12T14:58:58Z",
+      "description": "Speech at DSEI by Deputy Chief of the General Staff, Lieutenant General David Eastman MBE, about the British Army\u2019s place in an increasingly dangerous world. ",
+      "link": "/government/speeches/speech-at-dsei-by-deputy-chief-of-the-general-staff",
+      "index": "govuk",
+      "es_score": 0.024683911,
+      "_id": "/government/speeches/speech-at-dsei-by-deputy-chief-of-the-general-staff",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Minister Stephanie Peacock's speech at the G20 Culture Ministerial meeting",
+      "public_timestamp": "2025-11-03T15:51:18Z",
+      "description": "Minister Stephanie Peacock represented the UK at the meeting of G20 Culture Ministers in South Africa",
+      "link": "/government/speeches/minister-stephanie-peacocks-speech-at-the-g20-culture-ministerial-meeting",
+      "index": "govuk",
+      "es_score": 0.024287846,
+      "_id": "/government/speeches/minister-stephanie-peacocks-speech-at-the-g20-culture-ministerial-meeting",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Speech by Sir Richard Moore, Chief of SIS, 19 September 2025",
+      "public_timestamp": "2025-09-19T14:11:49Z",
+      "description": "Sir Richard Moore, Chief of the Secret Intelligence Service, spoke about the launch of a new dark web portal to recruit spies for the UK.",
+      "link": "/government/speeches/speech-by-sir-richard-moore-chief-of-sis-19-september-2025",
+      "index": "govuk",
+      "es_score": 0.02415256,
+      "_id": "/government/speeches/speech-by-sir-richard-moore-chief-of-sis-19-september-2025",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Prime Minister's remarks on the NHS: 6 January 2025",
+      "public_timestamp": "2025-01-06T12:04:02Z",
+      "description": "Prime Minister Keir Starmer's remarks on the NHS at the South West London Elective Orthopaedic Centre in Epsom.",
+      "link": "/government/speeches/prime-ministers-remarks-on-the-nhs-6-january-2025",
+      "index": "govuk",
+      "es_score": 0.023980716,
+      "_id": "/government/speeches/prime-ministers-remarks-on-the-nhs-6-january-2025",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Speech by Blaise Metreweli, Chief of SIS, 15 December 2025",
+      "public_timestamp": "2025-12-15T17:04:51Z",
+      "description": "Blaise Metreweli, Chief of the Secret Intelligence Service on how SIS is keeping the UK safe in a world where the rules of conflict are being rewritten.",
+      "link": "/government/speeches/speech-by-blaise-metreweli-chief-of-sis-15-december-2025",
+      "index": "govuk",
+      "es_score": 0.023436544,
+      "_id": "/government/speeches/speech-by-blaise-metreweli-chief-of-sis-15-december-2025",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    },
+    {
+      "title": "Remarks made by Technology Secretary Peter Kyle at the Munich Security Conference",
+      "public_timestamp": "2025-02-14T17:47:44Z",
+      "description": "Technology Secretary Peter Kyle spoke about the the UK\u2019s approach to the responsible development of artificial intelligence at the Munich Security Conference.",
+      "link": "/government/speeches/remarks-made-by-technology-secretary-peter-kyle-at-the-munich-security-conference",
+      "index": "govuk",
+      "es_score": 0.022869987,
+      "_id": "/government/speeches/remarks-made-by-technology-secretary-peter-kyle-at-the-munich-security-conference",
+      "elasticsearch_type": "edition",
+      "document_type": "edition"
+    }
+  ]
+}
